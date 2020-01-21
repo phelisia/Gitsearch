@@ -22,7 +22,7 @@ Run ng server for a dev server
  
 ## License
 Licensed under the [MIT license](LICENSE).
-copyright (c) 2020 Quotes
+copyright (c) 2020 Gitsearch
 
 ## Contacts
 Email:phelisiajeruto@gmail.com
