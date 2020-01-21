@@ -17,7 +17,7 @@ Angular
 Run ng server for a dev server
 
 ## Live links
- https://phelisia.github.io/Quotes/
+ https://phelisia.github.io/Gitsearch/
  
  
 ## License
